@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wazuh SIEM Lab Deployment (AlgoExpert)</b>
+- <b>Wazuh SIEM Lab Deployment</b>
   - [Wazuh Lab Setup](https://github.com/DAyivor/Wazuh-Lab)
 
 
